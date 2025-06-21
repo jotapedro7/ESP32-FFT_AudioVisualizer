@@ -8,7 +8,7 @@ O sistema utiliza um microfone analógico, filtro passa-baixa e microcontrolador
 
 📷 Demonstração
 
-![Visualização em tempo real](https://imgur.com/a/VvV5zn6);
+![Visualização em tempo real](https://i.imgur.com/5FQ8eK9.mp4);
 
 
 🔧 Hardware Utilizado
